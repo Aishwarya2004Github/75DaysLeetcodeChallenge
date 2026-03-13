@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0139-word-break) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
