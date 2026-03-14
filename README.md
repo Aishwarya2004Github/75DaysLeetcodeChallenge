@@ -11,15 +11,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
