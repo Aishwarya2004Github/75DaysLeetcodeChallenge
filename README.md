@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aishwarya2004Github/75DaysLeetcodeChallenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
